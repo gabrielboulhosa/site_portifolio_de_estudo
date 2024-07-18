@@ -4,6 +4,21 @@
     padding: 0;
 }
 
+.conteiner h1,
+.conteiner h2 {
+    font-family: "Ubuntu", sans-serif;
+
+}
+
+.conteiner p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteiner a {
+    font-family: "Roboto Mono", monospace;
+
+}
+
 header .conteiner a, 
 section .conteiner a {
     text-decoration: none;
